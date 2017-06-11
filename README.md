@@ -1,6 +1,6 @@
-jQuery-Cell-Phone-Sharing（jQuery手机端QQ微信分享插件）
+#jQuery-Cell-Phone-Sharing（jQuery手机端QQ微信分享插件）
 
-开发者
+##开发者
 
 - Peterkirk
 
